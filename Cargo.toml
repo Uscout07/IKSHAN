@@ -1,0 +1,7 @@
+[workspace]
+members = [
+  "crates/ikshan-engine",
+  "crates/ikshan-cli"
+]
+
+resolver = "2"
