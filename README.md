@@ -1,5 +1,9 @@
 # IKSHAN
 
+<p align="center">
+  <img src="assets/logo/ikshan_logo.png" width="120" />
+</p>
+
 **Observation without overhead.**
 
 Ikshan is a fast, local-first screen recorder written in Rust.
